@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.header{
+    background-color: antiquewhite;
+    background-image: url(../new-year-new-me/images/banner/banner1.png);
+    text-align: right;
+    padding: 20px 20px 0px 0px;
+    background-repeat: no-repeat;
+
+}
+h6{
+    font-weight: 400;
+}
