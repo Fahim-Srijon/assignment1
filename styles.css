@@ -5,7 +5,7 @@
 
 .header{
     background-color: rgb(228, 226, 224);
-    background-image: url(/images/banner/banner1.png);
+    background-image: url(images/banner/banner1.png);
     background-position: contain;
     text-align: right;
     padding: 200px 200px 150px 0px;
@@ -107,7 +107,7 @@ ul {
 /* -------------call now-------*/
 
 .call-now{
-    background-image: url('/images/watch.png'), url('/images/gradient2.png');
+    background-image: url('images/watch.png'), url('images/gradient2.png');
     background-blend-mode: multiply;
     margin: 130px 230px 130px 230px;
     background-position: contain;
