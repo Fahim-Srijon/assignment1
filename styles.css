@@ -1,16 +1,35 @@
 *{
     margin: 0px;
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;;
 }
 
 .header{
-    background-color: antiquewhite;
-    background-image: url(../new-year-new-me/images/banner/banner1.png);
+    background-color: rgb(228, 226, 224);
+    background-image: url(/images/banner/banner1.png);
+    background-position: contain;
     text-align: right;
-    padding: 20px 20px 0px 0px;
+    padding: 250px 250px 150px 0px;
     background-repeat: no-repeat;
 
 }
+h1{
+    font-size: 65px;
+    font-style: bold;
+}
 h6{
-    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.primary-button{
+    padding: 20px 20px 20px 20px;
+    color: white;
+    background-color: #FD6E0A;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+.page2{
+    display: flex;
 }
