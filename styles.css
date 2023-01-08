@@ -155,8 +155,16 @@ ul {
     text-align: center;
     
 }
+
+.dev{
+    
+}
+
 .dev img{
     width: 50%;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    margin-bottom: 10px;
 }
 .dev-name{
     font-size: 24px;
